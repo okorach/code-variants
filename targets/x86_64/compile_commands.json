@@ -1,0 +1,14 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-c",
+      "-o",
+      "targets/x86_64/bin-x86_64",
+      "variants.c"
+    ],
+    "directory": "/Users/olivier.korach/code/demos/code-variants",
+    "file": "/Users/olivier.korach/code/demos/code-variants/variants.c",
+    "output": "/Users/olivier.korach/code/demos/code-variants/targets/x86_64/bin-x86_64"
+  }
+]

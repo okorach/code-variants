@@ -1,0 +1,15 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-c",
+      "-DTARGET_PPC",
+      "-o",
+      "targets/ppc/bin-ppc",
+      "variants.c"
+    ],
+    "directory": "/Users/olivier.korach/code/demos/code-variants",
+    "file": "/Users/olivier.korach/code/demos/code-variants/variants.c",
+    "output": "/Users/olivier.korach/code/demos/code-variants/targets/ppc/bin-ppc"
+  }
+]

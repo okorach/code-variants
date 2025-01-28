@@ -1,0 +1,3 @@
+targets/x86_64/bin-x86_64
+targets/ppc/bin-ppc
+.sonar/
